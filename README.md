@@ -29,7 +29,7 @@ A curated list of awesome GraphQL frameworks, libraries and software using gqlge
 - [Yamashou/gqlgenc/graphqljson](https://github.com/Yamashou/gqlgenc/tree/master/graphqljson) - GrahpQL JSON encoder and decoder
 
 ### Static analysis
-- [gqlgo/gqlanaylsis](https://github.com/gqlgo/gqlanalysis) - Static analysis go library for GraphQL, inspired by by [go/analysis](https://pkg.go.dev/golang.org/x/tools/go/analysis)
+- [gqlgo/gqlanaylsis](https://github.com/gqlgo/gqlanalysis) - Static analysis go library for GraphQL, inspired by [go/analysis](https://pkg.go.dev/golang.org/x/tools/go/analysis)
 
 ### gqlgen plugin
 - [99designs/gqlgen/plugin/modelgen](https://github.com/99designs/gqlgen/tree/master/plugin/modelgen) - Generate go model type from GraphQL schema
