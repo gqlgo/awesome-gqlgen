@@ -14,11 +14,16 @@ A curated list of awesome GraphQL frameworks, libraries and software using gqlge
 ###  Formatter
 
 - [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - Format GraphQL file
+- [gqlgo/querystring](https://github.com/gqlgo/querystring) - 
+`querystring` finds a GraphQL query in your files.
 
 ### Linter
 
 - [gqlgo/lackid](https://github.com/gqlgo/lackid) - Detect lack of id in GrahpQL query
-
+- [gqlgo/deprecatedquery](https://github.com/gqlgo/deprecatedquery) - About
+`deprecatedquery` finds a deprecated query in your GraphQL query files.
+- [gqlgo/optionalschema](https://github.com/gqlgo/optionalschema) - About
+`optionalschema` finds optional fields and arguments in your GraphQL schema
 
 ## Library
 
