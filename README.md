@@ -41,4 +41,4 @@ A curated list of awesome GraphQL frameworks, libraries and software using gqlge
 - [99designs/gqlgen/plugin/resolvergen](https://github.com/99designs/gqlgen/tree/master/plugin/resolvergen) - Generate go resolver from GraphQL schema
 - [99designs/gqlgen/plugin/federation](https://github.com/99designs/gqlgen/tree/master/plugin/federation) - Generate go Apollo Federation resolver from GraphQL schema
 - [Yamashou/gqlgenc/clientgev2](https://github.com/Yamashou/gqlgenc/tree/master/clientgenv2) - Generate go client from GraphQL query
-
+- [fasibio/autogql](https://github.com/fasibio/autogql) - CRUD SQL generator plugin
