@@ -9,6 +9,8 @@ A curated list of awesome GraphQL frameworks, libraries and software using gqlge
 
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - Generate go GraphQL server from GrahpQL scheme
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - Generate go GraphQL client from GraphQL query
+- [infiotinc/gqlgenc](https://github.com/infiotinc/gqlgenc) - Generate go GraphQL client from GraphQL query
+- [Khan/genqlient](https://github.com/Khan/genqlient) - Generate go GraphQL client from GraphQL query
 - [Code-Hex/gqldoc](https://github.com/Code-Hex/gqldoc) - Generate Markdown GraphQL documents from GraphQL schema
 
 ###  Formatter
