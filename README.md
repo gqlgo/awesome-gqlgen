@@ -25,6 +25,10 @@ A curated list of awesome GraphQL frameworks, libraries and software using gqlge
 - [gqlgo/optionalschema](https://github.com/gqlgo/optionalschema) - About
 `optionalschema` finds optional fields and arguments in your GraphQL schema
 
+### Plugins
+- [compgen]([ComplexityRoo](https://github.com/Warashi/compgen) -  gqlgen plugin designed to simplify the generation of ComplexityRoot.
+- [gqlgen_plugins](https://github.com/StevenACoffman/gqlgen-plugins) - some Internal Khan Academy plugins that might be useful to others.
+
 ## Library
 
 ### GraphQL basis
